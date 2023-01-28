@@ -1,20 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Te amo</title>
-       <style>
-    body {
-      color: white;
-    }
-  </style>
-     <style>
-    body {
-      background-image: url('https://st.depositphotos.com/1719616/1995/i/600/depositphotos_19950095-stock-photo-red-hearts-background.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-    }
-  </style>
-  </head>
+
 <body>
   
   <h1>Quer namorar comigo?</h1>
